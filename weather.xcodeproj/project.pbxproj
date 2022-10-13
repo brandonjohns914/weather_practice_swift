@@ -11,6 +11,7 @@
 		41287C3B28EE2BBD002DE493 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41287C3A28EE2BBD002DE493 /* ContentView.swift */; };
 		41287C3D28EE2BBF002DE493 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41287C3C28EE2BBF002DE493 /* Assets.xcassets */; };
 		41287C4028EE2BBF002DE493 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41287C3F28EE2BBF002DE493 /* Preview Assets.xcassets */; };
+		41287C4728F63637002DE493 /* Weather_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41287C4628F63637002DE493 /* Weather_Button.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		41287C3A28EE2BBD002DE493 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		41287C3C28EE2BBF002DE493 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41287C3F28EE2BBF002DE493 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		41287C4628F63637002DE493 /* Weather_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather_Button.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				41287C3828EE2BBD002DE493 /* weatherApp.swift */,
 				41287C3A28EE2BBD002DE493 /* ContentView.swift */,
 				41287C3C28EE2BBF002DE493 /* Assets.xcassets */,
+				41287C4628F63637002DE493 /* Weather_Button.swift */,
 				41287C3E28EE2BBF002DE493 /* Preview Content */,
 			);
 			path = weather;
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				41287C3B28EE2BBD002DE493 /* ContentView.swift in Sources */,
+				41287C4728F63637002DE493 /* Weather_Button.swift in Sources */,
 				41287C3928EE2BBD002DE493 /* weatherApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
